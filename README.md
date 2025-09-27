@@ -325,4 +325,7 @@ This project is primarily for educational and demonstration purposes. While buil
 
 **Built with ❤️ for the DeFi community**
 
-*Empowering financial freedom through decentralized technology*
+*Empowering 
+<img width="1279" height="719" alt="Screenshot 2025-09-27 135423" src="https://github.com/user-attachments/assets/7ddf540c-f035-461d-8db4-bf9c8b9e538b" />
+financial freedom through decentralized technology*
+
